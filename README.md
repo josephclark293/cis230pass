@@ -10,4 +10,10 @@ Each directory contains:
 Be careful of the package statements in my Java code that will remain from the packages I create for organization in my Netbeans project. I willnot be removing them.
 
 ## Week 1
-This directory contains the slides which are a review of how the Java language works including a supplemental PDF from the other located [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%201/Week%201/JavaCharacteristics.pdf). The exercises for this week are located at the end of the [slide deck](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%201/Week%201/Introduction%20To%20Java%20Programming%20Language.pdf). The solutions are straight forward and can easily be covered in the session. The hello world task is simple and canbe found in the textbook or anywhere on the internet. The solution for adding two numbers is <nobr>'cis230pass/Java Week 1/AddTwoNumbers.java'.</nobr> 
+This directory contains the slides which are a review of how the Java language works including a supplemental PDF from the other located [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%201/Week%201/JavaCharacteristics.pdf). The exercises for this week are located at the end of the [slide deck](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%201/Week%201/Introduction%20To%20Java%20Programming%20Language.pdf). The solutions are straight forward and can easily be covered in the session. The hello world task is simple and canbe found in the textbook or anywhere on the internet. The solution for adding two numbers is <nobr>'cis230pass/Java Week 1/AddTwoNumbers.java'.</nobr>
+
+## Week 2
+This is a review of basic Java programs. We will use both slide decks in the Week 2 directory, however, we will not be doing the weather project. Review includes getting input from the keyboard, performing basic computations, and using the Math class.
+The problem set is located [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%202/Problem%20Sheet%201.docx) as a .docx file. Please ask questions about the instructions ifneeded. Solutions are in the repository.
+
+<strong> Try to do the exercises without using notes </strong>. This will force you to learn the basic commands which will make your life easier.
