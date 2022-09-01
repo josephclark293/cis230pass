@@ -1,4 +1,4 @@
-# CIS 230 PASS Session ![Lander Logo Not Found](https://www.lander.edu/_files/images/header-logo-2x.png)
+# CIS 230 PASS Session
 This is the repository for the CIS 230 PASS Sessions at Lander University led by Joseph Clark.
 The files in here currently have simply been uploaded from the Spring 2022 semester. Exercises and slide decks may change. 
 As of this writing you may assume Week 2 is correct. As files are updated you will see details about them in this README.  
