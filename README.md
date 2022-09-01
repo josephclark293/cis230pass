@@ -14,6 +14,6 @@ This directory contains the slides which are a review of how the Java language w
 
 ## Week 2
 This is a review of basic Java programs. We will use both slide decks in the Week 2 directory, however, we will not be doing the weather project. Review includes getting input from the keyboard, performing basic computations, and using the Math class.
-The problem set is located [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%202/Problem%20Sheet%201.docx) as a .docx file. Please ask questions about the instructions ifneeded. Solutions are in the repository.
+The problem set is located [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%202/Problem%20Sheet%201.docx) as a .docx file. Please ask questions about the instructions if needed. Solutions are in the repository.
 
 <strong> Try to do the exercises without using notes </strong>. This will force you to learn the basic commands which will make your life easier.
