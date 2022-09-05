@@ -17,3 +17,6 @@ This is a review of basic Java programs. We will use both slide decks in the Wee
 The problem set is located [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%202/Problem%20Sheet%201.docx) as a .docx file. Please ask questions about the instructions if needed. Solutions are in the repository.
 
 <strong> Try to do the exercises without using notes </strong>. This will force you to learn the basic commands which will make your life easier.
+
+## Week 3
+This is week is a review of selection statements. These are our first programs where it really requires us to read a problem and create some logic to solve the problem. 
