@@ -19,4 +19,4 @@ The problem set is located [here](https://github.com/josephclark293/cis230pass/b
 <strong> Try to do the exercises without using notes </strong>. This will force you to learn the basic commands which will make your life easier.
 
 ## Week 3
-This is week is a review of selection statements. These are our first programs where it really requires us to read a problem and create some logic to solve the problem. 
+This is week is a review of selection statements. These are our first programs where it really requires us to read a problem and create some logic to solve the problem. The slides are [here]( https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%203/Selections.pdf). The [exercises](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%203/Selections%20Problems.pdf) are here. Again, do the exercises without use of reference as best as possible. 
