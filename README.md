@@ -20,3 +20,7 @@ The problem set is located [here](https://github.com/josephclark293/cis230pass/b
 
 ## Week 3
 This is week is a review of selection statements. These are our first programs where it really requires us to read a problem and create some logic to solve the problem. The slides are [here]( https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%203/Selections.pdf). The [exercises](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%203/Selections%20Problems.pdf) are here. Again, do the exercises without use of reference as best as possible. 
+
+## Week 4
+We are already in Week 4! Do not fall behind. This week we are talking about While Loops. Looping is one of the most important skills in programming. Make sure you do plenty of exercises for this section.
+The slide deck for while loops is [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%204/The%20While%20Loop.pdf) and the problem sheet is [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%204/Problem%20Sheet%204%20Loops.pdf).
