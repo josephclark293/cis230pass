@@ -24,12 +24,11 @@ This is week is a review of selection statements. These are our first programs w
 ## Week 4
 We are already in Week 4! Do not fall behind. This week we are talking about While Loops. Looping is one of the most important skills in programming. Make sure you do plenty of exercises for this section.
 The slide deck for while loops is [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%204/The%20While%20Loop.pdf) and the problem sheet is [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%204/Problem%20Sheet%204%20Loops.pdf).
-<<<<<<< HEAD
+
 
 ## Week 5
 We discussed the sample Exam 1!
 
-##Week 6
+## Week 6
 We now will discuss methods. To do this well you will need mastery of all the previous skills! For this first session onMethods there are no exercises. We will just look at examples together.
-=======
->>>>>>> b1492988a813a0e5eacc6cf5bdb86cc536dc2374
+
