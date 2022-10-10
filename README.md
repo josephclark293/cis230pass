@@ -1,7 +1,7 @@
 # CIS 230 PASS Session
 This is the repository for the CIS 230 PASS Sessions at Lander University led by Joseph Clark.
 The files in here currently have simply been uploaded from the Spring 2022 semester. Exercises and slide decks may change. 
-As of this writing you may assume Week 4 is correct. As files are updated you will see details about them in this README.  
+As of this writing you may assume Week 7 is correct. As files are updated you will see details about them in this README.  
 Each directory contains:
 1. The slide deck which is a review of lecture from the week.  
 2. The exercises for the week.
@@ -30,5 +30,9 @@ The slide deck for while loops is [here](https://github.com/josephclark293/cis23
 We discussed the sample Exam 1!
 
 ## Week 6
-We now will discuss methods. To do this well you will need mastery of all the previous skills! For this first session onMethods there are no exercises. We will just look at examples together.
+We now will discuss methods. To do this well you will need mastery of all the previous skills! For this first session on Methods there are no exercises. We will just look at examples together.
 
+
+## Week 7
+We began using arrays in Java! We have a slide deck [here](). The exercises are straight forward and can be found in the book. Note: Click the link for the slides or use week 9 folder. The weeks are not the same as last semester. 
+I also placed more methods exercises which are in the Week 8 folder.
