@@ -36,3 +36,6 @@ We now will discuss methods. To do this well you will need mastery of all the pr
 ## Week 7
 We began using arrays in Java! We have a slide deck [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%209/Single%20Dimensional%20Arrays%20I.pdf). The exercises are straight forward and can be found in the book. Note: Click the link for the slides or use week 9 folder. The weeks are not the same as last semester. 
 I also placed more methods exercises which are in the Week 8 folder.
+
+## Week 8
+We practice arrays more. The exercises are in the slides [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%2010/Single%20Dimensional%20Arrays%20II.pdf) and [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%2010/_Single%20Dimensional%20Arrays%20III.pdf). There are many examples in this [folder](https://github.com/josephclark293/cis230pass/tree/master/Java%20Week%2010).
