@@ -39,3 +39,9 @@ I also placed more methods exercises which are in the Week 8 folder.
 
 ## Week 8
 We practice arrays more. The exercises are in the slides [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%2010/Single%20Dimensional%20Arrays%20II.pdf) and [here](https://github.com/josephclark293/cis230pass/blob/master/Java%20Week%2010/_Single%20Dimensional%20Arrays%20III.pdf). There are many examples in this [folder](https://github.com/josephclark293/cis230pass/tree/master/Java%20Week%2010).
+
+## Week 9 - 11
+We did lots more array practice, then did Sample Exam 2!
+
+## Week 12
+We are starting to study Object Oriented Programming. In the Week 12 folder there is information on Classes and Objects with examples.
